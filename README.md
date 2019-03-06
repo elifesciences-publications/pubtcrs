@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from DeWitt et al., "Human T cell receptor occurrence patterns encode immune history, genetic background, and receptor specificity". eLife, 2018. http://dx.doi.org/10.7554/eLife.38358
+
+
 # pubtcrs
 
 <a href="https://hub.docker.com/r/pbradley/pubtcrs/">
